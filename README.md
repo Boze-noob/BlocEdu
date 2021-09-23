@@ -1,6 +1,6 @@
 # ido_edu
 
-Testing my knowledge
+Test
 
 ## Getting Started
 
