@@ -1,6 +1,6 @@
 # ido_edu
 
-Test 1
+Test 
 
 ## Getting Started
 
