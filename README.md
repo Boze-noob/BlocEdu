@@ -1,6 +1,6 @@
 # ido_edu
 
-Test 1603199911112222
+Test 1603199911
 
 ## Getting Started
 
